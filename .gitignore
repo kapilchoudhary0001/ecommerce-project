@@ -1,0 +1,6 @@
+*.png 
+*.db 
+*.pyc 
+__pycache__/ 
+.vscode/ 
+.streamlit/ 
